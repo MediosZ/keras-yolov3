@@ -1,0 +1,8 @@
+data/
+font/
+logs/
+model_data/
+*.7z
+train.txt
+*.ipynb
+*.cfg
